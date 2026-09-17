@@ -4,8 +4,8 @@
 **GitHub Username: MajdMaroun**
 **Submission Date: 9/17/2026**
 ## Project Links
-**Project Repository: https://github.com/MajdMaroun/techtalks-assignment-1-majd-maroun/pull/1 **
-**Code Review Pull Request:**
+**Project Repository: https://github.com/MajdMaroun/techtalks-assignment-1-majd-maroun **
+**Code Review Pull Request: https://github.com/MajdMaroun/techtalks-assignment-1-majd-maroun/pull/1 **
 **Live Deployment:** Not required
 ## Project Description
 Write a short description of your project.
